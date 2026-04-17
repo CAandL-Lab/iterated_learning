@@ -1,1 +1,1 @@
-# iterated_learning
+# Iterated Learning Dynamics in Linear Networks Code
